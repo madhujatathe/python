@@ -70,10 +70,28 @@ print(str.count("a"))
 
 # Syntax
 # if(condition):
-#     statement1
+#     statement1   
 # elif(condition):
 #     statement2
 # else:
 #     statementN
-#
+# it is use when you have many condition if the first condition is true then it will print otherwise check the next condition
+# else is use if above all condition are false then statment in else will be print
+ligth = "green"
+
+if(light == "red"):
+    print("stop")           #4space before statement is called indemtation
+elif(light == "green"):
+    print("go")
+elif(light == "yellow"):
+    print("look")
+else:
+    print("light is broken")
+ 
+print("end of code")
+#we can make if and elif as many as we want but first if is compulsory then we can make as many as we want
+#difference between if and elif is if condition is directly check it is true or false 
+#and elif condition is only check after if condition is false so therefore atleast one if condition is compulsory
+#else is only written once if above all condition are false it will print
+
  
