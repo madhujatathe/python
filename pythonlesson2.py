@@ -94,4 +94,18 @@ print("end of code")
 #and elif condition is only check after if condition is false so therefore atleast one if condition is compulsory
 #else is only written once if above all condition are false it will print
 
- 
+#NESTING 
+#nesting is when we write if condition in another if condition 
+#if(condition1):
+#    if(condition2):
+#        print()
+age = 34
+#if 80+ cannot drive
+if(age >= 18):
+    if(age >= 80):
+        print("cannot drive")
+    else:
+        print("can drive")
+else:
+    print("cannot drive")
+
