@@ -1,4 +1,4 @@
-gggggg#LIST
+#LIST
 
 #a built-in data type that stores set of values
 #it can store elements if different types together(integer,float,string,etc)
