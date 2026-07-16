@@ -1,4 +1,4 @@
-#LIST
+gggggg#LIST
 
 #a built-in data type that stores set of values
 #it can store elements if different types together(integer,float,string,etc)
@@ -17,6 +17,15 @@ print(len(marks))   #length of list
 #python's list is slightly diffent form array in c++ and java y
 #in c++ and java we study arrays in which the data we store is generaly of same data type
 #but in python list does not have this kinda rule
-#ex student = ["karan", 85, "Delhi"]
+student = ["karan", 85, "Delhi"]  #ex
 #string and list are kinda similar but it has a big difference in it to
 #string are immutable and list are mutable in python (mutable can be change)
+#in string we can access the value but cannot change the value 
+#in list we can access the value and also can change the value of specified index
+str = "hello"
+print(str[0])    #this will error str object does not support item assignment
+str[0] = "y"      
+
+print(student[0])
+student[0] = "arjun" #this will not give error and will change 
+print(student)
