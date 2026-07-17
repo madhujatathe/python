@@ -29,3 +29,14 @@ str[0] = "y"
 print(student[0])
 student[0] = "arjun" #this will not give error and will change 
 print(student)
+#in the above it contains indexing upto 2
+#if i write 3,4,etc indexing it will show error list index out of range
+
+#LIST SLICING
+#its similar to string slicing
+
+#list name[starting index : ending index]          we get a sublist
+
+#ending index will not bw included in printing
+
+
