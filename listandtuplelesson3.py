@@ -20,7 +20,7 @@ print(len(marks))   #length of list
 student = ["karan", 85, "Delhi"]  #ex
 #string and list are kinda similar but it has a big difference in it to
 #string are immutable and list are mutable in python (mutable can be change)
-#in string we can access the value but cannot change the value 
+#in string we can access the value but cann't change the value 
 #in list we can access the value and also can change the value of specified index
 str = "hello"
 print(str[0])    #this will error str object does not support item assignment
