@@ -39,5 +39,5 @@ print(student[4])
 #list name[starting index : ending index]          we get a sublist
 
 #ending index will not bw included in printing
-
+ str = [1, 2,]
 
