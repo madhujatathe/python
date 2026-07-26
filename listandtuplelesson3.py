@@ -39,5 +39,16 @@ print(student[4])
 #list name[starting index : ending index]          we get a sublist
 
 #ending index will not bw included in printing
- str = [1, 2,]
+print(marks[1:4])   #first three values will be printed 
+#if we miss starting index it will automaticly take 0 index
+#and if we miss ending index it will print till last index
+
+#in list slicing we also have negative indexing like string
+print(marks[-3:-1]) 
+
+#list method
+
+
+
+
 
