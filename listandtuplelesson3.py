@@ -8,7 +8,7 @@
 #marks3 = 95.5
 #marks4 = 66.9
 marks = [94.4, 87.3, 95.5, 66.9]  #its a list 
-#its always in square braket and seperated by ','.
+#its always in square braket and seperated by ','
 print(type(marks))   #we can print type of a list
 #in this we can access particular index like string
 print(marks[0]) 
