@@ -1,4 +1,4 @@
-#LIST     [basic, slicing, methods]
+#LIST    [basic, slicing, methods]
 
 #a built-in data type that stores set of values
 #it can store elements if different types together(integer,float,string,etc)
@@ -36,7 +36,7 @@ print(student[4])
 #LIST SLICING
 #its similar to string slicing
 
-#list name[starting index : ending index]          we get a sublist
+#list name[starting index : ending index]         # we get a sublist
 
 #ending index will not bw included in printing
 print(marks[1:4])   #first three values will be printed 
