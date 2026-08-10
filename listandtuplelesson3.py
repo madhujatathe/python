@@ -54,7 +54,8 @@ list = [2, 1, 3]
 list.append(4)            # adds one element at the end   [2, 1, 3, 4]
 
 #2.
-list.sort()               #sorts in  ascending order [1, 2, 3]
+list.sort()               #sorts in  ascending order [1, 2, 3] (it will arrange in ascending order)
+#ascending and descending
 
 #3.
 list.sort(reverse=true)   #sorts in descending order [3, 2, 1]
