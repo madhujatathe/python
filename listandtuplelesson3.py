@@ -51,7 +51,7 @@ list = [2, 1, 3]
 
 #basic function of list
 #1.
-list.append(4)            # adds one element at the end   [2, 1, 3, 4]
+list.append(4)            # add one element at the end   [2, 1, 3, 4]
 
 #2.
 list.sort()               #sorts in  ascending order [1, 2, 3] (it will arrange in ascending order)
