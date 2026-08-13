@@ -46,7 +46,7 @@ print(marks[1:4])   #first three values will be printed
 #in list slicing we also have negative indexing like string
 print(marks[-3:-1]) 
 
-#LIST METHODS  [function]
+#LIST METHODS  [functions]
 list = [2, 1, 3]
 
 #basic function of list
