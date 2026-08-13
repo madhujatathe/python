@@ -66,6 +66,9 @@ list.reverse()            # reverse list  [3, 1, 2]
 #5. 
 list.inster(idx,el)       #insert element at index   
 
+heck no
+
+
  
 
 
