@@ -3,7 +3,7 @@
 #a built-in data type that stores set of values
 #it can store elements if different types together(integer,float,string,etc)
 
-#marks1 = 94.4  writting marks of every student by creating new variable and handling is also hard 
+#marks1 = 94.4  writing marks of every student by creating new variable and handling is also hard 
 #marks2 = 87.3   therefore there is a built-in data type called list
 #marks3 = 95.5
 #marks4 = 66.9
