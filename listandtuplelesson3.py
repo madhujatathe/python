@@ -60,11 +60,7 @@ list.sort()               #sorts in  ascending order [1, 2, 3] (it will arrange 
 #3.
 list.sort(reverse=true)   #sorts in descending order [3, 2, 1]
 
-#4.
-list.reverse()            # reverse list  [3, 1, 2]
 
-#5. 
-list.inster(idx,el)       #insert element at index   
 
 
  
